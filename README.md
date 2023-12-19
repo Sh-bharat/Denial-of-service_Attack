@@ -61,7 +61,3 @@ This guide will walk you through the steps to execute a deauthentication attack 
 - **Caution**: Deauthentication attacks can be illegal if performed without proper authorization. Ensure you have permission before conducting such tests.
 - Use responsibly and in controlled environments.
 - Be mindful of the laws and regulations related to wireless network security in your area.
-
----
-
-Remember, this README is for educational purposes only, and performing such attacks without proper authorization could be illegal. Always ensure you have the necessary permissions and use this knowledge responsibly.
